@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/Documents/Perucello SSD/00 Artigos FP/Artigos 2021/Artigo 56 - Envio de Email - JavaMail simples/javax.mail-1.4.7.jar/javax.mail-1.4.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
